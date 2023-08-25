@@ -7,3 +7,13 @@ window.addEventListener("scroll", () => {
     nav.style.backgroundColor = "rgba(0, 0, 0, 0)";
   }
 });
+
+// const nav = document.getElementById("nav");
+
+// window.addEventListener("scroll", () => {
+//   if (window.scrollY > 0) {
+//     nav.style.backgroundColor = "#fff"; // Change to your desired color
+//   } else {
+//     nav.style.backgroundColor = "rgba(0, 0, 0, 0)";
+//   }
+// });
